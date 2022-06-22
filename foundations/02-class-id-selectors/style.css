@@ -1,6 +1,7 @@
 .odd {
     color: black;
-    background-color: pink;
+    background-color: #FDAB9F;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
 
 .big {
@@ -9,14 +10,14 @@
 
 
 #number_2 {
-    color: blue;
+    color: #1338BE;
     background-color: white;
     font-size: 36px;
 }
 
 #number_4 {
     color: black;
-    background-color: green;
+    background-color: #AEF359;
     font-weight: bold;
     font-size: 24px;
 }
